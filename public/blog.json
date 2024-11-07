@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/gvGC7dX/jaredd-craig-HH4-WBGNyltc-unsplash-1.jpg",
+      "title": "The Enchanted Forest",
+      "author": "John Doe",
+      "author_img": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2024/10/thumbnail_website-1-2.png?fit=1200%2C800&ssl=1",
+      "posted_date": "2024-01-15",
+      "reading_time": 10,
+      "hashtags": ["#fantasy", "#adventure", "#mystery"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/zGkkf1Y/detait-A1-r-Jmm6hz8-unsplash.jpg",
+      "title": "Journey to the Stars",
+      "author": "Jane Smith",
+      "author_img": "https://static.euronews.com/articles/stories/08/61/85/78/1200x675_cmsv2_610e7696-36a0-519a-9a2f-b33cfb062bd9-8618578.jpg",
+      "posted_date": "2024-02-20",
+      "reading_time": 15,
+      "hashtags": ["#sci-fi", "#space", "#exploration"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/swGFCY9/myznik-egor-osz3-V2-HLbk-Q-unsplash.jpg",
+      "title": "Mysteries of the Deep",
+      "author": "Alice Johnson",
+      "author_img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6EDE/production/_132928382_gettyimages-2071909768.jpg",
+      "posted_date": "2024-03-05",
+      "reading_time": 8,
+      "hashtags": ["#ocean", "#mystery", "#adventure"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/4g8vMzC/pierre-bamin-Qe-MX24-Dju-Tc-unsplash.jpg",
+      "title": "The Time Traveler",
+      "author": "Robert Brown",
+      "author_img": "https://static.timesofisrael.com/www/uploads/2024/11/AP24307317438057.jpg",
+      "posted_date": "2024-04-10",
+      "reading_time": 12,
+      "hashtags": ["#time", "#adventure", "#history"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/q5BLgZJ/michaela-murphy-TIS8-An-Si-FI4-unsplash.jpg",
+      "title": "Secret of the Lost Temple",
+      "author": "Emily Davis",
+      "author_img": "https://images.indianexpress.com/2023/08/Zabihullah-Mujahid.jpg?w=414",
+      "posted_date": "2024-05-25",
+      "reading_time": 20,
+      "hashtags": ["#adventure", "#history", "#mystery"]
+    }
+  ]
